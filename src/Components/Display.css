@@ -1,0 +1,16 @@
+.Screen{
+    color:aliceblue;
+    font-size: 100px;
+    /* margin-left: auto;
+    margin-right: 0; */
+    text-align: right;
+
+}
+
+.Result{
+    color:aliceblue;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: 0;
+
+}

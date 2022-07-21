@@ -1,0 +1,61 @@
+.ArithmeticButtons{
+    height: 10vh;
+    width: 7vw;
+    border: solid 3px black;
+    border-radius: 10px;
+    justify-content:center;
+    align-items: center;
+    background-color: gray;
+    margin: 10px;
+    font-size: 30px;
+    color: black;
+}
+
+.SpecialButton{
+    height: 10vh;
+    width: 27vw;
+    border: solid 3px black;
+    border-radius: 10px;
+    justify-content:center;
+    align-items: center;
+    background-color: gray;
+    margin: 10px;
+    font-size: 30px;
+    color: black;
+}
+
+.Numbers0{
+    height: 10vh;
+    width: 7vw;
+    border: solid 3px black;
+    border-radius: 200px;
+    justify-content:center;
+    align-items: center;
+    /* background-color: rgb(200, 30, 30); */
+    background-color: #d81e5b;
+    margin: 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.Numbers{
+    height: 10vh;
+    width: 11.7vw;
+    border: solid 3px black;
+    border-radius: 200px;
+    justify-content:center;
+    align-items: center;
+    /* background-color: rgb(200, 30, 30); */
+    background-color: #d81e5b;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: 300;
+    color: white;
+
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+
